@@ -4,7 +4,7 @@
   <img src="https://github.com/hanssen-ly/MileMarker/blob/dc3a257a87d78c997901ac65a79f6f9e18375f26/MileMarker.png" width="40%">
 </p>
 
-MileMarker is a fitness-tracking app I put together to keep tabs on my training for an upcoming half-marathon. Compared to my earlier projects, this one’s meant for everyday use—think sticking with it, saving all my data, and actually seeing my progress, not just building a one-off experiment.
+MileMarker is a fitness-tracking app I put together to keep tabs on my training for an upcoming half-marathon. Compared to my earlier project, this one’s meant for everyday use—think sticking with it, saving all my data, and actually seeing my progress, not just building a one-off experiment.
 
 The app allows me to log workouts with dates, distance, calories burned, and notes, storing everything in a local SQLite database. It provides a structured table view of past runs and generates visual insights by plotting distance versus calories using Matplotlib, making it easy to see trends and training efficiency over time. The interface is built with PyQt5 and includes a toggleable dark mode, emphasizing usability and clean UI design alongside functionality.
 
